@@ -7,6 +7,7 @@
 
 
 #include "HoneyPot.h"
+#include <condition_variable>
 
 /**
  * Класс описывает Винни-пуха.

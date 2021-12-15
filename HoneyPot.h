@@ -7,6 +7,7 @@
 
 #include <mutex>
 #include <thread>
+#include <condition_variable>
 
 /**
  * Класс описывет кувшин с медом.

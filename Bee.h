@@ -6,6 +6,7 @@
 #define CSA_5_BEE_H
 
 #include "HoneyPot.h"
+#include <condition_variable>
 /**
  * Класс описывает пчелу.
  */
