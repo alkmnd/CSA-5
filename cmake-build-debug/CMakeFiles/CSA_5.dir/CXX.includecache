@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/antonasamolov/Desktop/CSA-5/Bee.h
+HoneyPot.h
+/Users/antonasamolov/Desktop/CSA-5/HoneyPot.h
+
+/Users/antonasamolov/Desktop/CSA-5/HoneyPot.h
+mutex
+-
+thread
+-
+
+/Users/antonasamolov/Desktop/CSA-5/WinnieThePooh.h
+HoneyPot.h
+/Users/antonasamolov/Desktop/CSA-5/HoneyPot.h
+
+/Users/antonasamolov/Desktop/CSA-5/main.cpp
+iostream
+-
+thread
+-
+vector
+-
+Bee.h
+/Users/antonasamolov/Desktop/CSA-5/Bee.h
+WinnieThePooh.h
+/Users/antonasamolov/Desktop/CSA-5/WinnieThePooh.h
+

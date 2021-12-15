@@ -1,0 +1,3 @@
+/Users/antonasamolov/Desktop/CSA-5/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/antonasamolov/Desktop/CSA-5/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/antonasamolov/Desktop/CSA-5/cmake-build-debug/CMakeFiles/CSA_5.dir
