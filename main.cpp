@@ -3,6 +3,7 @@
 #include <vector>
 #include "Bee.h"
 #include "WinnieThePooh.h"
+#include <condition_variable>
 
 std::vector <std::thread> threads;
 std::vector<Bee> bees;

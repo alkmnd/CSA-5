@@ -5,6 +5,7 @@
 #include "HoneyPot.h"
 #include <mutex>
 #include <thread>
+#include <condition_variable>
 
 int HoneyPot::getCurrentAmountOfHoney() {
     honey.lock();

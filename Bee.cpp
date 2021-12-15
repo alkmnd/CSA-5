@@ -4,6 +4,7 @@
 
 #include "Bee.h"
 #include <chrono>
+#include <condition_variable>
 
 Bee::Bee(const HoneyPot* pot, int id, std::condition_variable& notification) :notification_{notification} {
     id_ = id;
